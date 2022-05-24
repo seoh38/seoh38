@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 신입 웹 개발자 이서희 입니다. 👋
 
 <!--
 **seoh38/seoh38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
